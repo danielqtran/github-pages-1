@@ -1,0 +1,55 @@
+.menu {
+    display: inline-block;
+    background-color: gray;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.menuLink {
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    display: inline-block;
+}
+
+nav {
+    background-color: lightgray;
+}
+
+.left {
+    width: 30%;
+    height: auto;
+    float: left;
+    border-right: 1px solid gray;
+}
+
+.body {
+    width: 70%;
+    height: auto;
+    background-color: lightskyblue;
+    float: right;
+}
+
+.profilePic {
+    display: block;
+    border: 3px black;
+    background-color: lightpink;
+    border-bottom: 1px solid gray;
+}
+
+.profileInfo {
+    height: 700px;
+    padding: 20px;
+}
+
+.profile {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1em;
+}
+
+h2 {
+    text-align: center;
+}
